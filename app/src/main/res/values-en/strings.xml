@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">dz_3_3_2_and</string>
+    <string name="name_dz">Language select</string>
+    <string name="str_btn_ok">OK</string>
+
+    <string name="str_name_local_ru">Russian</string>
+    <string name="str_name_local_en">English</string>
+
+    <string-array name="sa_language">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+
+    <string name="str_txt_language">Donec eu imperdiet turpis, ut laoreet nibh. Suspendisse gravida finibus leo, vel fermentum nisi tristique eu. Donec in ligula quam. Nullam placerat porta diam, vel porta libero molestie non. Donec porttitor mollis sem. Nunc ultricies nisi faucibus porta aliquam. Aenean efficitur ut justo pellentesque tristique. Quisque dictum tincidunt augue, at pulvinar sapien scelerisque at. Vivamus eleifend hendrerit metus quis sagittis.
+Phasellus pharetra, arcu id rhoncus elementum, nisi leo porttitor lorem, quis vulputate urna risus vitae libero. Sed lacinia eleifend pulvinar. In laoreet elit tortor, et congue dui ultricies id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec sed velit eget ex hendrerit commodo ac ac mi. Nunc eget purus eget leo eleifend rhoncus ut in magna. Aenean massa eros, dictum nec tempor et, congue eget massa. Fusce molestie efficitur volutpat. In blandit in justo eu euismod. Aliquam posuere semper diam, in condimentum massa euismod vestibulum. Aliquam tempus gravida nibh, sed molestie purus sodales eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam sapien enim, porta aliquet sapien vel, vestibulum ullamcorper quam.
+Phasellus eu odio ac arcu vehicula volutpat vitae a libero. Vestibulum vel tellus faucibus tortor ultricies porta. Duis id neque eu est lobortis aliquet. Proin scelerisque feugiat sodales. Pellentesque eget est consequat, ultricies mi sit amet, semper sem. Praesent fermentum neque eget mi molestie, in dictum lectus egestas. Maecenas mollis ornare nunc, ac posuere velit sollicitudin at. Proin dapibus lorem non auctor pellentesque. Phasellus sollicitudin et est ut suscipit. Curabitur ultricies quam vitae porta dignissim. Fusce justo massa, aliquet quis fringilla vitae, imperdiet sit amet leo. Praesent massa metus, volutpat at pretium ac, fermentum eget nunc. Aenean fringilla massa ut venenatis feugiat.</string>
+
+</resources>
